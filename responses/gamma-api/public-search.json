@@ -1,0 +1,2080 @@
+{
+    "events": [
+        {
+            "active": true,
+            "archived": false,
+            "closed": false,
+            "endDate": "2025-11-21T00:00:00Z",
+            "ended": false,
+            "id": "86247",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-disparage-mamdani-on-friday-ECWwEhjXqpQw.jpg",
+            "markets": [
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.008,
+                    "bestBid": 0.005,
+                    "closed": false,
+                    "groupItemTitle": "",
+                    "lastTradePrice": 0.006,
+                    "outcomePrices": [
+                        "0.0065",
+                        "0.9935"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Zohran Mamdani praise Donald Trump on Friday?",
+                    "slug": "will-zohran-mamdani-praise-donald-trump-on-friday",
+                    "spread": 0.003
+                }
+            ],
+            "slug": "will-zohran-mamdani-praise-donald-trump-on-friday",
+            "startDate": "2025-11-20T15:44:36.61511Z",
+            "title": "Will Zohran Mamdani praise Donald Trump on Friday?"
+        },
+        {
+            "active": true,
+            "archived": false,
+            "closed": false,
+            "endDate": "2026-12-31T00:00:00Z",
+            "ended": false,
+            "id": "35908",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-trump-nominate-as-fed-chair-9p19ttRwsbKL.png",
+            "markets": [
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.19,
+                    "bestBid": 0.17,
+                    "closed": false,
+                    "groupItemTitle": "Kevin Warsh",
+                    "lastTradePrice": 0.19,
+                    "outcomePrices": [
+                        "0.18",
+                        "0.82"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Kevin Warsh as the next Fed chair?",
+                    "slug": "will-trump-nominate-kevin-warsh-as-the-next-fed-chair",
+                    "spread": 0.02
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.32,
+                    "bestBid": 0.3,
+                    "closed": false,
+                    "groupItemTitle": "Kevin Hassett",
+                    "lastTradePrice": 0.3,
+                    "outcomePrices": [
+                        "0.31",
+                        "0.69"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Kevin Hassett as the next Fed chair?",
+                    "slug": "will-trump-nominate-kevin-hassett-as-the-next-fed-chair",
+                    "spread": 0.02
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.37,
+                    "bestBid": 0.35,
+                    "closed": false,
+                    "groupItemTitle": "Christopher Waller",
+                    "lastTradePrice": 0.35,
+                    "outcomePrices": [
+                        "0.36",
+                        "0.64"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Christopher Waller as the next Fed chair?",
+                    "slug": "will-trump-nominate-christopher-waller-as-the-next-fed-chair",
+                    "spread": 0.02
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "Bill Pulte",
+                    "lastTradePrice": 0.001,
+                    "outcomePrices": [
+                        "0.0005",
+                        "0.9995"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Bill Pulte as the next Fed chair?",
+                    "slug": "will-trump-nominate-bill-pulte-as-the-next-fed-chair",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.003,
+                    "bestBid": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "Judy Shelton",
+                    "lastTradePrice": 0.001,
+                    "outcomePrices": [
+                        "0.002",
+                        "0.998"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Judy Shelton as the next Fed chair?",
+                    "slug": "will-trump-nominate-judy-shelton-as-the-next-fed-chair",
+                    "spread": 0.002
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.004,
+                    "bestBid": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "David Malpass",
+                    "lastTradePrice": 0.001,
+                    "outcomePrices": [
+                        "0.0025",
+                        "0.9975"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate David Malpass as the next Fed chair?",
+                    "slug": "will-trump-nominate-david-malpass-as-the-next-fed-chair",
+                    "spread": 0.003
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.005,
+                    "bestBid": 0.002,
+                    "closed": false,
+                    "groupItemTitle": "Howard Lutnick",
+                    "lastTradePrice": 0.002,
+                    "outcomePrices": [
+                        "0.0035",
+                        "0.9965"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Howard Lutnick as the next Fed chair?",
+                    "slug": "will-trump-nominate-howard-lutnick-as-the-next-fed-chair",
+                    "spread": 0.003
+                },
+                {
+                    "active": false,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0,
+                    "closed": false,
+                    "groupItemTitle": "Individual T",
+                    "lastTradePrice": 0,
+                    "outcomePrices": [
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Individual T as the next Fed chair?",
+                    "slug": "will-trump-nominate-individual-t-as-the-next-fed-chair",
+                    "spread": 1
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.002,
+                    "bestBid": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "Arthur Laffer",
+                    "lastTradePrice": 0.001,
+                    "outcomePrices": [
+                        "0.0015",
+                        "0.9985"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Arthur Laffer as the next Fed chair?",
+                    "slug": "will-trump-nominate-arthur-laffer-as-the-next-fed-chair",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "Larry Kudlow",
+                    "lastTradePrice": 0.001,
+                    "outcomePrices": [
+                        "0.0005",
+                        "0.9995"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Larry Kudlow as the next Fed chair?",
+                    "slug": "will-trump-nominate-larry-kudlow-as-the-next-fed-chair",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.003,
+                    "bestBid": 0.002,
+                    "closed": false,
+                    "groupItemTitle": "Jerome Powell",
+                    "lastTradePrice": 0.002,
+                    "outcomePrices": [
+                        "0.0025",
+                        "0.9975"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Jerome Powell as the next Fed chair?",
+                    "slug": "will-trump-nominate-jerome-powell-as-the-next-fed-chair",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "Ron Paul",
+                    "lastTradePrice": 0.001,
+                    "outcomePrices": [
+                        "0.0005",
+                        "0.9995"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Ron Paul as the next Fed chair?",
+                    "slug": "will-trump-nominate-ron-paul-as-the-next-fed-chair",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.022,
+                    "bestBid": 0.02,
+                    "closed": false,
+                    "groupItemTitle": "Stephen Miran",
+                    "lastTradePrice": 0.021,
+                    "outcomePrices": [
+                        "0.021",
+                        "0.979"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Stephen Miran as the next Fed chair?",
+                    "slug": "will-trump-nominate-stephen-miran-as-the-next-fed-chair",
+                    "spread": 0.002
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.051,
+                    "bestBid": 0.04,
+                    "closed": false,
+                    "groupItemTitle": "Scott Bessent",
+                    "lastTradePrice": 0.04,
+                    "outcomePrices": [
+                        "0.0455",
+                        "0.9545"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Scott Bessent as the next Fed chair?",
+                    "slug": "will-trump-nominate-scott-bessent-as-the-next-fed-chair",
+                    "spread": 0.011
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.002,
+                    "bestBid": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "James Bullard",
+                    "lastTradePrice": 0.001,
+                    "outcomePrices": [
+                        "0.0015",
+                        "0.9985"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate James B. Bullard as the next Fed chair?",
+                    "slug": "will-trump-nominate-james-b-bullard-as-the-next-fed-chair",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "Marc Sumerlin",
+                    "lastTradePrice": 0.001,
+                    "outcomePrices": [
+                        "0.0005",
+                        "0.9995"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Marc Sumerlin as the next Fed chair?",
+                    "slug": "will-trump-nominate-marc-sumerlin-as-the-next-fed-chair",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.003,
+                    "bestBid": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "David Zervos",
+                    "lastTradePrice": 0.001,
+                    "outcomePrices": [
+                        "0.002",
+                        "0.998"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate David Zervos as the next Fed chair?",
+                    "slug": "will-trump-nominate-david-zervos-as-the-next-fed-chair",
+                    "spread": 0.002
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.087,
+                    "bestBid": 0.08,
+                    "closed": false,
+                    "groupItemTitle": "Rick Rieder",
+                    "lastTradePrice": 0.08,
+                    "outcomePrices": [
+                        "0.0835",
+                        "0.9165"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Rick Rieder as the next Fed chair?",
+                    "slug": "will-trump-nominate-rick-rieder-as-the-next-fed-chair",
+                    "spread": 0.007
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.017,
+                    "bestBid": 0.015,
+                    "closed": false,
+                    "groupItemTitle": "Michelle Bowman",
+                    "lastTradePrice": 0.015,
+                    "outcomePrices": [
+                        "0.016",
+                        "0.984"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Michelle Bowman as the next Fed chair?",
+                    "slug": "will-trump-nominate-michelle-bowman-as-the-next-fed-chair",
+                    "spread": 0.002
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.002,
+                    "closed": false,
+                    "groupItemTitle": "Lorie K. Logan",
+                    "lastTradePrice": 0.002,
+                    "outcomePrices": [
+                        "0.001",
+                        "0.999"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Lorie K. Logan as the next Fed chair?",
+                    "slug": "will-trump-nominate-lorie-k-logan-as-the-next-fed-chair",
+                    "spread": 0.002
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.002,
+                    "bestBid": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "Philip Jefferson",
+                    "lastTradePrice": 0.001,
+                    "outcomePrices": [
+                        "0.0015",
+                        "0.9985"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Philip Jefferson as the next Fed chair?",
+                    "slug": "will-trump-nominate-philip-jefferson-as-the-next-fed-chair",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "Janet Yellen",
+                    "lastTradePrice": 0.002,
+                    "outcomePrices": [
+                        "0.0005",
+                        "0.9995"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Janet Yellen as the next Fed chair?",
+                    "slug": "will-trump-nominate-individual-j-as-the-next-fed-chair",
+                    "spread": 0.001
+                },
+                {
+                    "active": false,
+                    "archived": true,
+                    "bestAsk": 0.056,
+                    "bestBid": 0.02,
+                    "closed": false,
+                    "groupItemTitle": "James Bullard",
+                    "lastTradePrice": 0.04,
+                    "outcomePrices": [
+                        "0.038",
+                        "0.962"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "archWill Trump nominate James Bullard as the next Fed chair?",
+                    "slug": "archwill-trump-nominate-james-bullard-as-the-next-fed-chair",
+                    "spread": 0.036
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.002,
+                    "bestBid": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "Larry Lindsey",
+                    "lastTradePrice": 0.001,
+                    "outcomePrices": [
+                        "0.0015",
+                        "0.9985"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Larry Lindsey as the next Fed chair?",
+                    "slug": "will-trump-nominate-larry-lindsey-as-the-next-fed-chair",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.005,
+                    "bestBid": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "Barron Trump",
+                    "lastTradePrice": 0.001,
+                    "outcomePrices": [
+                        "0.003",
+                        "0.997"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Barron Trump as the next Fed chair?",
+                    "slug": "will-trump-nominate-barron-trump-as-the-next-fed-chair",
+                    "spread": 0.004
+                },
+                {
+                    "active": false,
+                    "archived": true,
+                    "bestAsk": 0.15,
+                    "closed": false,
+                    "groupItemTitle": "Rick Rieder",
+                    "outcomePrices": [
+                        "0.075",
+                        "0.925"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Rick Rieder as the next Fed chair?",
+                    "slug": "will-trump-nominate-rick-rieder-as-the-next-fed-chair-917",
+                    "spread": 0.15
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.002,
+                    "bestBid": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "Donald Trump",
+                    "lastTradePrice": 0.001,
+                    "outcomePrices": [
+                        "0.0015",
+                        "0.9985"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate himself as the next Fed chair?",
+                    "slug": "will-trump-nominate-himself-as-the-next-fed-chair",
+                    "spread": 0.001
+                },
+                {
+                    "active": false,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0,
+                    "closed": false,
+                    "groupItemTitle": "Individual P",
+                    "lastTradePrice": 0,
+                    "outcomePrices": [
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Individual P as the next Fed chair?",
+                    "slug": "will-trump-nominate-individual-p-as-the-next-fed-chair",
+                    "spread": 1
+                },
+                {
+                    "active": false,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0,
+                    "closed": false,
+                    "groupItemTitle": "Individual Q",
+                    "lastTradePrice": 0,
+                    "outcomePrices": [
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Individual Q as the next Fed chair?",
+                    "slug": "will-trump-nominate-individual-q-as-the-next-fed-chair",
+                    "spread": 1
+                },
+                {
+                    "active": false,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0,
+                    "closed": false,
+                    "groupItemTitle": "Individual R",
+                    "lastTradePrice": 0,
+                    "outcomePrices": [
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Individual R as the next Fed chair?",
+                    "slug": "will-trump-nominate-individual-r-as-the-next-fed-chair",
+                    "spread": 1
+                },
+                {
+                    "active": false,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0,
+                    "closed": false,
+                    "groupItemTitle": "Individual S",
+                    "lastTradePrice": 0,
+                    "outcomePrices": [
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Individual S as the next Fed chair?",
+                    "slug": "will-trump-nominate-individual-s-as-the-next-fed-chair",
+                    "spread": 1
+                },
+                {
+                    "active": false,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0,
+                    "closed": false,
+                    "groupItemTitle": "Individual U",
+                    "lastTradePrice": 0,
+                    "outcomePrices": [
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Individual U as the next Fed chair?",
+                    "slug": "will-trump-nominate-individual-u-as-the-next-fed-chair",
+                    "spread": 1
+                },
+                {
+                    "active": false,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0,
+                    "closed": false,
+                    "groupItemTitle": "Individual V",
+                    "lastTradePrice": 0,
+                    "outcomePrices": [
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Individual V as the next Fed chair?",
+                    "slug": "will-trump-nominate-individual-v-as-the-next-fed-chair",
+                    "spread": 1
+                },
+                {
+                    "active": false,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0,
+                    "closed": false,
+                    "groupItemTitle": "Individual W",
+                    "lastTradePrice": 0,
+                    "outcomePrices": [
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Individual W as the next Fed chair?",
+                    "slug": "will-trump-nominate-individual-w-as-the-next-fed-chair",
+                    "spread": 1
+                },
+                {
+                    "active": false,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0,
+                    "closed": false,
+                    "groupItemTitle": "Individual X",
+                    "lastTradePrice": 0,
+                    "outcomePrices": [
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Individual X as the next Fed chair?",
+                    "slug": "will-trump-nominate-individual-x-as-the-next-fed-chair",
+                    "spread": 1
+                },
+                {
+                    "active": false,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0,
+                    "closed": false,
+                    "groupItemTitle": "Individual Y",
+                    "lastTradePrice": 0,
+                    "outcomePrices": [
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Individual Y as the next Fed chair?",
+                    "slug": "will-trump-nominate-individual-y-as-the-next-fed-chair",
+                    "spread": 1
+                },
+                {
+                    "active": false,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0,
+                    "closed": false,
+                    "groupItemTitle": "Individual Z",
+                    "lastTradePrice": 0,
+                    "outcomePrices": [
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate Individual Z as the next Fed chair?",
+                    "slug": "will-trump-nominate-individual-z-as-the-next-fed-chair",
+                    "spread": 1
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.003,
+                    "bestBid": 0.002,
+                    "closed": false,
+                    "groupItemTitle": "No one nominated before 2027",
+                    "lastTradePrice": 0.002,
+                    "outcomePrices": [
+                        "0.0025",
+                        "0.9975"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate no one before 2027?",
+                    "slug": "will-trump-nominate-no-one-before-2027",
+                    "spread": 0.001
+                },
+                {
+                    "active": false,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0,
+                    "closed": false,
+                    "groupItemTitle": "Other",
+                    "lastTradePrice": 0,
+                    "outcomePrices": [
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump nominate someone else as the next Fed chair?",
+                    "slug": "will-trump-nominate-someone-else-as-the-next-fed-chair",
+                    "spread": 1
+                }
+            ],
+            "negRisk": true,
+            "slug": "who-will-trump-nominate-as-fed-chair",
+            "startDate": "2025-08-05T17:33:33.863763Z",
+            "title": "Who will Trump nominate as Fed Chair?"
+        },
+        {
+            "active": true,
+            "archived": false,
+            "closed": false,
+            "endDate": "2025-11-30T00:00:00Z",
+            "ended": false,
+            "id": "68391",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-trump-talk-to-in-august-5cRGa2yUPMwu.jpg",
+            "markets": [
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0.999,
+                    "closed": true,
+                    "closedTime": "2025-11-19 00:53:31+00",
+                    "groupItemTitle": "Crown Prince Mohammed bin Salman",
+                    "lastTradePrice": 1,
+                    "outcomePrices": [
+                        "1",
+                        "0"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump talk to Crown Prince Mohammed bin Salman in November?",
+                    "slug": "will-trump-talk-to-crown-prince-mohammed-bin-salman-in-november-332",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.79,
+                    "bestBid": 0.71,
+                    "closed": false,
+                    "groupItemTitle": "Volodymyr Zelenskyy",
+                    "lastTradePrice": 0.72,
+                    "outcomePrices": [
+                        "0.75",
+                        "0.25"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump talk to Volodymyr Zelenskyy in November?",
+                    "slug": "will-trump-talk-to-volodymyr-zelenskyy-in-november-535",
+                    "spread": 0.08
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.049,
+                    "bestBid": 0.023,
+                    "closed": false,
+                    "groupItemTitle": "Jerome Powell",
+                    "lastTradePrice": 0.048,
+                    "outcomePrices": [
+                        "0.036",
+                        "0.964"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump talk to Jerome Powell in November?",
+                    "slug": "will-trump-talk-to-jerome-powell-in-november-757",
+                    "spread": 0.026
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.37,
+                    "bestBid": 0.33,
+                    "closed": false,
+                    "groupItemTitle": "Emmanuel Macron",
+                    "lastTradePrice": 0.36,
+                    "outcomePrices": [
+                        "0.35",
+                        "0.65"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump talk to Emmanuel Macron in November?",
+                    "slug": "will-trump-talk-to-emmanuel-macron-in-november-788",
+                    "spread": 0.04
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0.996,
+                    "closed": true,
+                    "closedTime": "2025-11-19 19:24:25+00",
+                    "groupItemTitle": "Elon Musk",
+                    "lastTradePrice": 1,
+                    "outcomePrices": [
+                        "1",
+                        "0"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump talk to Elon Musk in November?",
+                    "slug": "will-trump-talk-to-elon-musk-in-november-539",
+                    "spread": 0.004
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.191,
+                    "bestBid": 0.13,
+                    "closed": false,
+                    "groupItemTitle": "Luiz Inácio Lula da Silva",
+                    "lastTradePrice": 0.2,
+                    "outcomePrices": [
+                        "0.1605",
+                        "0.8395"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump talk to Luiz Inácio Lula da Silva in November?",
+                    "slug": "will-trump-talk-to-luiz-incio-lula-da-silva-in-november-476",
+                    "spread": 0.061
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.999,
+                    "bestBid": 0.998,
+                    "closed": true,
+                    "closedTime": "2025-11-07 06:40:43+00",
+                    "groupItemTitle": "Benjamin Netanyahu",
+                    "lastTradePrice": 1,
+                    "outcomePrices": [
+                        "1",
+                        "0"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump talk to Benjamin Netanyahu in November?",
+                    "slug": "will-trump-talk-to-benjamin-netanyahu-in-november-933",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.25,
+                    "bestBid": 0.2,
+                    "closed": false,
+                    "groupItemTitle": "Vladimir Putin",
+                    "lastTradePrice": 0.23,
+                    "outcomePrices": [
+                        "0.225",
+                        "0.775"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump talk to Vladimir Putin in November?",
+                    "slug": "will-trump-talk-to-vladimir-putin-in-november-773",
+                    "spread": 0.05
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0.999,
+                    "closed": true,
+                    "closedTime": "2025-11-22 23:30:17+00",
+                    "groupItemTitle": "Keir Starmer",
+                    "lastTradePrice": 1,
+                    "outcomePrices": [
+                        "1",
+                        "0"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump talk to Keir Starmer in November?",
+                    "slug": "will-trump-talk-to-keir-starmer-in-november-384",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0.999,
+                    "closed": true,
+                    "closedTime": "2025-11-24 17:21:39+00",
+                    "groupItemTitle": "Xi Jinping",
+                    "lastTradePrice": 1,
+                    "outcomePrices": [
+                        "1",
+                        "0"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump talk to Xi Jinping in November?",
+                    "slug": "will-trump-talk-to-xi-jinping-in-november-586",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.43,
+                    "bestBid": 0.2,
+                    "closed": false,
+                    "groupItemTitle": "Ursula von der Leyen",
+                    "lastTradePrice": 0.2,
+                    "outcomePrices": [
+                        "0.315",
+                        "0.685"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump talk to Ursula von der Leyen in November?",
+                    "slug": "will-trump-talk-to-ursula-von-der-leyen-in-november-421",
+                    "spread": 0.23
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.032,
+                    "bestBid": 0.014,
+                    "closed": false,
+                    "groupItemTitle": "Jair Bolsonaro",
+                    "lastTradePrice": 0.03,
+                    "outcomePrices": [
+                        "0.023",
+                        "0.977"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump talk to Jair Bolsonaro in November?",
+                    "slug": "will-trump-talk-to-jair-bolsonaro-in-november-977",
+                    "spread": 0.018
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.014,
+                    "bestBid": 0.011,
+                    "closed": false,
+                    "groupItemTitle": "Kim Jong Un",
+                    "lastTradePrice": 0.01,
+                    "outcomePrices": [
+                        "0.0125",
+                        "0.9875"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump talk to Kim Jong Un in November?",
+                    "slug": "will-trump-talk-to-kim-jong-un-in-november-158",
+                    "spread": 0.003
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0.998,
+                    "closed": true,
+                    "closedTime": "2025-11-10 23:33:18+00",
+                    "groupItemTitle": "Ahmed Al Shara",
+                    "lastTradePrice": 1,
+                    "outcomePrices": [
+                        "1",
+                        "0"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump talk to Ahmed Al Shara in November?",
+                    "slug": "will-trump-talk-to-ahmed-al-shara-in-november-388",
+                    "spread": 0.002
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.2,
+                    "bestBid": 0.15,
+                    "closed": false,
+                    "groupItemTitle": "Narendra Modi",
+                    "lastTradePrice": 0.18,
+                    "outcomePrices": [
+                        "0.175",
+                        "0.825"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump talk to Narendra Modi in November?",
+                    "slug": "will-trump-talk-to-narendra-modi-in-november-199-358-182",
+                    "spread": 0.05
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0.999,
+                    "closed": true,
+                    "closedTime": "2025-11-21 23:00:53+00",
+                    "groupItemTitle": "Zohran Mamdani",
+                    "lastTradePrice": 1,
+                    "outcomePrices": [
+                        "1",
+                        "0"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump talk to Zohran Mamdani in November?",
+                    "slug": "will-trump-talk-to-zohran-mamdani-in-november-884-646",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.253,
+                    "bestBid": 0.233,
+                    "closed": false,
+                    "groupItemTitle": "Nicolás Maduro",
+                    "lastTradePrice": 0.239,
+                    "outcomePrices": [
+                        "0.243",
+                        "0.757"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump talk to Nicolás Maduro in November?",
+                    "slug": "will-trump-talk-to-nicols-maduro-in-november-489-645",
+                    "spread": 0.02
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0.999,
+                    "closed": true,
+                    "closedTime": "2025-11-22 02:23:45+00",
+                    "groupItemTitle": "Friedrich Merz",
+                    "lastTradePrice": 1,
+                    "outcomePrices": [
+                        "1",
+                        "0"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump talk to Friedrich Merz in November?",
+                    "slug": "will-trump-talk-to-friedrich-merz-in-november-492",
+                    "spread": 0.001
+                }
+            ],
+            "negRisk": false,
+            "slug": "who-will-trump-talk-to-in-november",
+            "startDate": "2025-10-30T19:05:13.213122Z",
+            "title": "Who will Trump talk to in November?"
+        },
+        {
+            "active": true,
+            "archived": false,
+            "closed": false,
+            "ended": false,
+            "id": "84898",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-release-epstein-files-by-1D_iBMrzbQj2.jpg",
+            "markets": [
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.001,
+                    "closed": true,
+                    "closedTime": "2025-11-20 07:01:53+00",
+                    "groupItemTitle": "November 19",
+                    "lastTradePrice": 1,
+                    "outcomePrices": [
+                        "0",
+                        "1"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump release the Epstein files by November 19?",
+                    "slug": "will-trump-release-the-epstein-files-by-november-19",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.001,
+                    "closed": true,
+                    "closedTime": "2025-11-22 07:09:43+00",
+                    "groupItemTitle": "November 21",
+                    "lastTradePrice": 1,
+                    "outcomePrices": [
+                        "0",
+                        "1"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump release the Epstein files by November 21?",
+                    "slug": "will-trump-release-the-epstein-files-by-november-21",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.73,
+                    "bestBid": 0.72,
+                    "closed": false,
+                    "groupItemTitle": "December 31",
+                    "lastTradePrice": 0.72,
+                    "outcomePrices": [
+                        "0.725",
+                        "0.275"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump release the Epstein files by December 31?",
+                    "slug": "will-trump-release-the-epstein-files-by-december-31",
+                    "spread": 0.01
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.001,
+                    "closed": true,
+                    "closedTime": "2025-11-21 07:14:23+00",
+                    "groupItemTitle": "November 20",
+                    "lastTradePrice": 1,
+                    "outcomePrices": [
+                        "0",
+                        "1"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump release the Epstein files by November 20?",
+                    "slug": "will-trump-release-the-epstein-files-by-november-20",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.06,
+                    "bestBid": 0.051,
+                    "closed": false,
+                    "groupItemTitle": "November 30",
+                    "lastTradePrice": 0.06,
+                    "outcomePrices": [
+                        "0.0555",
+                        "0.9445"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump release the Epstein files by November 30?",
+                    "slug": "will-trump-release-the-epstein-files-by-november-30",
+                    "spread": 0.009
+                }
+            ],
+            "negRisk": false,
+            "slug": "will-trump-release-epstein-files-by",
+            "startDate": "2025-11-18T23:28:04.063421Z",
+            "title": "Will Trump release Epstein files by...? "
+        },
+        {
+            "active": true,
+            "archived": false,
+            "closed": false,
+            "endDate": "2025-11-25T00:00:00Z",
+            "ended": false,
+            "id": "88673",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-at-the-thanksgiving-turkey-pardon-on-tuesday-ZdsN1i66dFT-.jpg",
+            "markets": [
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.21,
+                    "bestBid": 0.15,
+                    "closed": false,
+                    "groupItemTitle": "Hell",
+                    "lastTradePrice": 0.21,
+                    "outcomePrices": [
+                        "0.18",
+                        "0.82"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Hell\" at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-hell-at-the-turkey-pardon-on-tuesday-316",
+                    "spread": 0.06
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.62,
+                    "bestBid": 0.6,
+                    "closed": false,
+                    "groupItemTitle": "Thank / Thanks 20+ times",
+                    "lastTradePrice": 0.62,
+                    "outcomePrices": [
+                        "0.61",
+                        "0.39"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Thank\" or \"Thanks\" 20+ times at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-thank-or-thanks-20-times-at-the-turkey-pardon-on-tuesday-429",
+                    "spread": 0.02
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.58,
+                    "bestBid": 0.54,
+                    "closed": false,
+                    "groupItemTitle": "Gobble / Waddle 10+ times",
+                    "lastTradePrice": 0.54,
+                    "outcomePrices": [
+                        "0.56",
+                        "0.44"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Gobble\" or \"Waddle\" 10+ times at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-gobble-or-waddle-10-times-at-the-turkey-pardon-on-tuesday",
+                    "spread": 0.04
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.4,
+                    "bestBid": 0.34,
+                    "closed": false,
+                    "groupItemTitle": "Pardon / Pardoned 7+ times",
+                    "lastTradePrice": 0.37,
+                    "outcomePrices": [
+                        "0.37",
+                        "0.63"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Pardon\" or \"Pardoned\" 7+ times at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-pardon-or-pardoned-7-times-at-the-turkey-pardon-on-tuesday",
+                    "spread": 0.06
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.18,
+                    "bestBid": 0.15,
+                    "closed": false,
+                    "groupItemTitle": "Big Beautiful Bill",
+                    "lastTradePrice": 0.18,
+                    "outcomePrices": [
+                        "0.165",
+                        "0.835"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Big Beautiful Bill\" at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-big-beautiful-bill-at-the-turkey-pardon-on-tuesday-486",
+                    "spread": 0.03
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.39,
+                    "bestBid": 0.36,
+                    "closed": false,
+                    "groupItemTitle": "Ballroom",
+                    "lastTradePrice": 0.38,
+                    "outcomePrices": [
+                        "0.375",
+                        "0.625"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Ballroom\" at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-ballroom-at-the-turkey-pardon-on-tuesday-823",
+                    "spread": 0.03
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.21,
+                    "bestBid": 0.2,
+                    "closed": false,
+                    "groupItemTitle": "Honey",
+                    "lastTradePrice": 0.23,
+                    "outcomePrices": [
+                        "0.205",
+                        "0.795"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Honey\" at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-honey-at-the-turkey-pardon-on-tuesday-223",
+                    "spread": 0.01
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.19,
+                    "bestBid": 0.17,
+                    "closed": false,
+                    "groupItemTitle": "Putin / Zelensky",
+                    "lastTradePrice": 0.19,
+                    "outcomePrices": [
+                        "0.18",
+                        "0.82"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Putin\" or \"Zelenskyy\" at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-putin-or-zelenskyy-at-the-turkey-pardon-on-tuesday-153",
+                    "spread": 0.02
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.23,
+                    "bestBid": 0.22,
+                    "closed": false,
+                    "groupItemTitle": "Pilgrim",
+                    "lastTradePrice": 0.23,
+                    "outcomePrices": [
+                        "0.225",
+                        "0.775"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Pilgrim\" at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-pilgrim-at-the-turkey-pardon-on-tuesday-664",
+                    "spread": 0.01
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.13,
+                    "bestBid": 0.09,
+                    "closed": false,
+                    "groupItemTitle": "Nuclear / B-2",
+                    "lastTradePrice": 0.13,
+                    "outcomePrices": [
+                        "0.11",
+                        "0.89"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Nuclear\" or \"B-2\" at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-nuclear-or-b-2-at-the-turkey-pardon-on-tuesday",
+                    "spread": 0.04
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.039,
+                    "bestBid": 0.032,
+                    "closed": false,
+                    "groupItemTitle": "Crypto / Bitcoin",
+                    "lastTradePrice": 0.039,
+                    "outcomePrices": [
+                        "0.0355",
+                        "0.9645"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Crypto\" or \"Bitcoin\" at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-crypto-or-bitcoin-at-the-turkey-pardon-on-tuesday-173-361",
+                    "spread": 0.007
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.4,
+                    "bestBid": 0.38,
+                    "closed": false,
+                    "groupItemTitle": "Turkey 10+ times",
+                    "lastTradePrice": 0.4,
+                    "outcomePrices": [
+                        "0.39",
+                        "0.61"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Turkey\" 10+ times at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-turkey-10-times-at-the-turkey-pardon-on-tuesday-888",
+                    "spread": 0.02
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.58,
+                    "bestBid": 0.56,
+                    "closed": false,
+                    "groupItemTitle": "America / American 8+",
+                    "lastTradePrice": 0.58,
+                    "outcomePrices": [
+                        "0.57",
+                        "0.43"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"America\" or \"American\" 8+  at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-america-or-american-8-at-the-turkey-pardon-on-tuesday",
+                    "spread": 0.02
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.39,
+                    "bestBid": 0.38,
+                    "closed": false,
+                    "groupItemTitle": "Job 5+ times",
+                    "lastTradePrice": 0.38,
+                    "outcomePrices": [
+                        "0.385",
+                        "0.615"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Job\" 5+ times at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-job-5-times-at-the-turkey-pardon-on-tuesday-221",
+                    "spread": 0.01
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.8,
+                    "bestBid": 0.78,
+                    "closed": false,
+                    "groupItemTitle": "Farmer",
+                    "lastTradePrice": 0.77,
+                    "outcomePrices": [
+                        "0.79",
+                        "0.21"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Farmer\" at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-farmer-at-the-turkey-pardon-on-tuesday-412",
+                    "spread": 0.02
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.33,
+                    "bestBid": 0.31,
+                    "closed": false,
+                    "groupItemTitle": "Tariff",
+                    "lastTradePrice": 0.32,
+                    "outcomePrices": [
+                        "0.32",
+                        "0.68"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Tariff\" at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-tariff-at-the-turkey-pardon-on-tuesday-142",
+                    "spread": 0.02
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.1,
+                    "bestBid": 0.05,
+                    "closed": false,
+                    "groupItemTitle": "Recep Tayyip / Erdoğan",
+                    "lastTradePrice": 0.11,
+                    "outcomePrices": [
+                        "0.075",
+                        "0.925"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Recep Tayyip\" or \"Erdoğan\" at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-recep-tayyip-or-erdoan-at-the-turkey-pardon-on-tuesday",
+                    "spread": 0.05
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.47,
+                    "bestBid": 0.46,
+                    "closed": false,
+                    "groupItemTitle": "Affordability / Affordable",
+                    "lastTradePrice": 0.46,
+                    "outcomePrices": [
+                        "0.465",
+                        "0.535"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Affordability\" or \"Affordable\" at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-affordability-or-affordable-at-the-turkey-pardon-on-tuesday",
+                    "spread": 0.01
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.23,
+                    "bestBid": 0.21,
+                    "closed": false,
+                    "groupItemTitle": "Rock / Scissors",
+                    "lastTradePrice": 0.25,
+                    "outcomePrices": [
+                        "0.22",
+                        "0.78"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Rock\" or \"Scissors\" at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-rock-or-scissors-at-the-turkey-pardon-on-tuesday",
+                    "spread": 0.02
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.1,
+                    "bestBid": 0.09,
+                    "closed": false,
+                    "groupItemTitle": "Kennedy / Autism",
+                    "lastTradePrice": 0.1,
+                    "outcomePrices": [
+                        "0.095",
+                        "0.905"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump say \"Kennedy\" or \"Autism\" at the Turkey Pardon on Tuesday?",
+                    "slug": "will-trump-say-kennedy-or-autism-at-the-turkey-pardon-on-tuesday",
+                    "spread": 0.01
+                }
+            ],
+            "negRisk": false,
+            "slug": "what-will-trump-say-at-the-thanksgiving-turkey-pardon-on-tuesday-936",
+            "startDate": "2025-11-23T18:24:39.041492Z",
+            "title": "What will Trump say at the Thanksgiving Turkey Pardon on Tuesday?"
+        },
+        {
+            "active": true,
+            "archived": false,
+            "closed": false,
+            "endDate": "2025-12-31T12:00:00Z",
+            "ended": false,
+            "id": "23085",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-trump-announce-as-next-fed-chair-gMx5KYRleZhJ.jpg",
+            "markets": [
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.099,
+                    "bestBid": 0.075,
+                    "closed": false,
+                    "groupItemTitle": "Kevin Warsh",
+                    "lastTradePrice": 0.087,
+                    "outcomePrices": [
+                        "0.087",
+                        "0.913"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump announce Kevin Warsh as next Fed Chair in 2025?",
+                    "slug": "will-trump-announce-kevin-warsh-as-next-fed-chair-in-2025",
+                    "spread": 0.024
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.21,
+                    "bestBid": 0.147,
+                    "closed": false,
+                    "groupItemTitle": "Kevin Hassett",
+                    "lastTradePrice": 0.21,
+                    "outcomePrices": [
+                        "0.1785",
+                        "0.8215"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump announce Kevin Hassett as next Fed Chair in 2025?",
+                    "slug": "will-trump-announce-kevin-hassett-as-next-fed-chair-in-2025",
+                    "spread": 0.063
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "Arthur Laffer",
+                    "lastTradePrice": 0.002,
+                    "outcomePrices": [
+                        "0.0005",
+                        "0.9995"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump announce Arthur Laffer as next Fed Chair in 2025?",
+                    "slug": "will-trump-announce-arthur-laffer-as-next-fed-chair-in-2025",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.002,
+                    "bestBid": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "Larry Kudlow",
+                    "lastTradePrice": 0.001,
+                    "outcomePrices": [
+                        "0.0015",
+                        "0.9985"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump announce Larry Kudlow as next Fed Chair in 2025?",
+                    "slug": "will-trump-announce-larry-kudlow-as-next-fed-chair-in-2025",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.01,
+                    "bestBid": 0.004,
+                    "closed": false,
+                    "groupItemTitle": "Judy Shelton",
+                    "lastTradePrice": 0.005,
+                    "outcomePrices": [
+                        "0.007",
+                        "0.993"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump announce Judy Shelton as next Fed Chair in 2025?",
+                    "slug": "will-trump-announce-judy-shelton-as-next-fed-chair-in-2025",
+                    "spread": 0.006
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "Ron Paul",
+                    "lastTradePrice": 0.001,
+                    "outcomePrices": [
+                        "0.0005",
+                        "0.9995"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump announce Ron Paul as next Fed Chair in 2025?",
+                    "slug": "will-trump-announce-ron-paul-as-next-fed-chair-in-2025",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "Chamath Palihapitiya",
+                    "lastTradePrice": 0.002,
+                    "outcomePrices": [
+                        "0.0005",
+                        "0.9995"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump announce Chamath Palihapitiya as next Fed Chair in 2025?",
+                    "slug": "will-trump-announce-chamath-palihapitiya-as-next-fed-chair-in-2025",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.004,
+                    "bestBid": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "Howard Lutnick",
+                    "lastTradePrice": 0.001,
+                    "outcomePrices": [
+                        "0.0025",
+                        "0.9975"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump announce Howard Lutnick as next Fed Chair in 2025?",
+                    "slug": "will-trump-announce-howard-lutnick-as-next-fed-chair-in-2025",
+                    "spread": 0.003
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.05,
+                    "bestBid": 0.022,
+                    "closed": false,
+                    "groupItemTitle": "Scott Bessent",
+                    "lastTradePrice": 0.017,
+                    "outcomePrices": [
+                        "0.036",
+                        "0.964"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump announce Scott Bessent as next Fed Chair in 2025?",
+                    "slug": "will-trump-announce-scott-bessent-as-next-fed-chair-in-2025",
+                    "spread": 0.028
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "Elon Musk",
+                    "lastTradePrice": 0.002,
+                    "outcomePrices": [
+                        "0.0005",
+                        "0.9995"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump announce Elon Musk as next Fed Chair in 2025?",
+                    "slug": "will-trump-announce-elon-musk-as-next-fed-chair-in-2025",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.132,
+                    "bestBid": 0.102,
+                    "closed": false,
+                    "groupItemTitle": "Chris Waller",
+                    "lastTradePrice": 0.103,
+                    "outcomePrices": [
+                        "0.117",
+                        "0.883"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump announce Chris Waller as next Fed Chair in 2025?",
+                    "slug": "will-trump-announce-chris-waller-as-next-fed-chair-in-2025",
+                    "spread": 0.03
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.009,
+                    "bestBid": 0.008,
+                    "closed": false,
+                    "groupItemTitle": "Michelle Bowman",
+                    "lastTradePrice": 0.008,
+                    "outcomePrices": [
+                        "0.0085",
+                        "0.9915"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump announce Michelle Bowman as next Fed Chair in 2025?",
+                    "slug": "will-trump-announce-michelle-bowman-as-next-fed-chair-in-2025",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.001,
+                    "closed": false,
+                    "groupItemTitle": "Roger W. Ferguson Jr.",
+                    "lastTradePrice": 0.002,
+                    "outcomePrices": [
+                        "0.0005",
+                        "0.9995"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump announce Roger W. Ferguson Jr. as next Fed Chair in 2025?",
+                    "slug": "will-trump-announce-roger-w-ferguson-jr-as-next-fed-chair-in-2025",
+                    "spread": 0.001
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.046,
+                    "bestBid": 0.03,
+                    "closed": false,
+                    "groupItemTitle": "Rick Rieder",
+                    "lastTradePrice": 0.016,
+                    "outcomePrices": [
+                        "0.038",
+                        "0.962"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump announce Rick Rieder as next Fed Chair in 2025?",
+                    "slug": "will-trump-announce-rick-rieder-as-next-fed-chair-in-2025",
+                    "spread": 0.016
+                },
+                {
+                    "active": false,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0,
+                    "closed": false,
+                    "groupItemTitle": "Person H",
+                    "lastTradePrice": 0,
+                    "outcomePrices": [
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump announce Person H as next Fed Chair in 2025?",
+                    "slug": "will-trump-announce-person-h-as-next-fed-chair-in-2025",
+                    "spread": 1
+                },
+                {
+                    "active": false,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0,
+                    "closed": false,
+                    "groupItemTitle": "Person I",
+                    "lastTradePrice": 0,
+                    "outcomePrices": [
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump announce Person I as next Fed Chair in 2025?",
+                    "slug": "will-trump-announce-person-i-as-next-fed-chair-in-2025",
+                    "spread": 1
+                },
+                {
+                    "active": false,
+                    "archived": false,
+                    "bestAsk": 1,
+                    "bestBid": 0,
+                    "closed": false,
+                    "groupItemTitle": "Other",
+                    "lastTradePrice": 0,
+                    "outcomePrices": [
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump announce someone else as next Fed Chair in 2025?",
+                    "slug": "will-trump-announce-someone-else-as-next-fed-chair-in-2025",
+                    "spread": 1
+                },
+                {
+                    "active": true,
+                    "archived": false,
+                    "bestAsk": 0.49,
+                    "bestBid": 0.46,
+                    "closed": false,
+                    "groupItemTitle": "No announcement by December 31",
+                    "lastTradePrice": 0.49,
+                    "outcomePrices": [
+                        "0.475",
+                        "0.525"
+                    ],
+                    "outcomes": [
+                        "Yes",
+                        "No"
+                    ],
+                    "question": "Will Trump refrain from announcing a next Fed Chair in 2025?",
+                    "slug": "will-trump-refrain-from-announcing-a-next-fed-chair-in-2025",
+                    "spread": 0.03
+                }
+            ],
+            "negRisk": true,
+            "slug": "who-will-trump-announce-as-next-fed-chair",
+            "startDate": "2025-04-18T18:06:52.982859Z",
+            "title": "Who will Trump announce as next Fed Chair in 2025?"
+        }
+    ],
+    "hasMore": true,
+    "profiles": null,
+    "tags": null
+}
